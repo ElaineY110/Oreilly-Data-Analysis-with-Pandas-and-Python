@@ -2,3 +2,4 @@
 Time to Complete: 20h 40m </br>
 Publish By: Packt Publishing </br>
 Publication Date: April 2022
+<url>https://github.com/PacktPublishing/Data-Analysis-with-Pandas-and-Python<url>
